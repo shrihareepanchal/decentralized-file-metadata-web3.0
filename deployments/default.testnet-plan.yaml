@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: decentralized-file-metadata
+            expected-sender: ST2KRMZMCNE47T384M3G14XBSMB8MDF3CAD8H5RXA
+            cost: 11410
+            path: "contracts\\decentralized-file-metadata.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
