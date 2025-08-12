@@ -21,4 +21,5 @@ Our vision is to enable a fully decentralized, censorship-resistant, and transpa
 - **Off-chain Storage Bridges:** Connect with IPFS, Filecoin, or Arweave for actual file storage.
 
 ## 5. Contract Address
-`SPXXXXXXXXXXXXXX.DecentralizedFileMetadata`
+ST2KRMZMCNE47T384M3G14XBSMB8MDF3CAD8H5RXA.decentralized-file-metadata
+<img width="959" height="449" alt="Screenshot1" src="https://github.com/user-attachments/assets/437e9543-e4bb-4a51-9647-025f96d1b543" />
